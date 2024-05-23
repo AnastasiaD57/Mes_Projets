@@ -1,1 +1,1 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Danil/Desktop/TP_Symfony_Anastasia/TP_Symfony","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Danil/Desktop/Projets_DEV_WEB/monSite_Concessionnaire/monSite_Concession","disabled":false,"__vagrantfile":true}}}
